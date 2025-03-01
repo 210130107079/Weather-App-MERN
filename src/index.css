@@ -1,0 +1,9 @@
+@import url('https://fonts.cdnfonts.com/css/twentieth-century-condensed');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: "Twentieth Century Condensed";
+}
